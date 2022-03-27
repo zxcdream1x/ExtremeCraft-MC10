@@ -1,0 +1,1 @@
+- **Отчёт Virustotal: https://www.virustotal.com/gui/file/d593bf9f43da00c7c65475ab4e851d63cce99621d83bd0241f8ceca5cc641a46?nocache=1**
